@@ -1,2 +1,3 @@
 # Event-Driven-Architecture-with-RabbitMQ
-![download](https://github.com/dev-jaswanthraj/Event-Driven-Architecture-with-RabbitMQ/assets/64518811/f01776e4-0c04-4e55-82bb-07d0e05b03c7)
+
+![download](https://github.com/dev-jaswanthraj/Event-Driven-Architecture-with-RabbitMQ/assets/64518811/837f8cb8-98b8-4662-a345-649937cfe78e)
